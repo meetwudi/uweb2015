@@ -16,7 +16,7 @@ Lectures are presented in Chinese. All slides, assignments, documentations will 
 
 You should have been completed following courses. If you haven't, it's OK for you to take this course, but you may find it a little hard to understand.
 
-- Computer Basics （计算机基础）
+- Introduction to Computer Science （计算机基础）
 - Algorithm （算法）
 - Data Structure （数据结构）
 - Computer Network （计算机网络）
