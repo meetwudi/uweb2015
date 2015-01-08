@@ -4,7 +4,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 1: Introduction to Web Development
+### Week 1: Introduction to HTML5 & CSS3
 
 ##### What are you going to learn?
 
@@ -14,7 +14,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 2: Introduction to HTML5 & CSS3
+### Week 2: Layout Technics
 
 ##### What are you going to learn?
 
@@ -24,7 +24,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 3: Layout Technics
+### Week 3: Responsive Design
 
 ##### What are you going to learn?
 
@@ -34,7 +34,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 4: Responsive Design
+### Week 4: Introduction to JavaScript
 
 ##### What are you going to learn?
 
@@ -44,7 +44,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 5: Introduction to JavaScript
+### Week 5: Object Oriented JavaScript
 
 ##### What are you going to learn?
 
@@ -54,7 +54,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 6: Object Oriented JavaScript
+### Week 6: Introduction to HTTP And Ajax
 
 ##### What are you going to learn?
 
@@ -64,7 +64,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 7: Utilizing JavaScript Frameworks
+### Week 7: Introduction to Node.js
 
 ##### What are you going to learn?
 
@@ -74,7 +74,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 8: Introduction to Node.js
+### Week 8: Utilizing JavaScript Frameworks
 
 ##### What are you going to learn?
 
@@ -94,7 +94,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 10: Debugging with Chrome
+### Week 10: ECMAScript 6
 
 ##### What are you going to learn?
 
@@ -104,7 +104,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 11: Git Basics and Workflow
+### Week 11: The MV*/Flux Application Architecture
 
 ##### What are you going to learn?
 
@@ -114,7 +114,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 12: ECMAScript 6
+### Week 12: Debugging and Optimizing with Chrome
 
 ##### What are you going to learn?
 
@@ -124,7 +124,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 13: 
+### Week 13: Git Basics and Git Workflow
 
 ##### What are you going to learn?
 
@@ -134,7 +134,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 14: 
+### Week 14: Working in Modern Companies
 
 ##### What are you going to learn?
 
@@ -144,10 +144,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 15: 
+### Week 15: Final Project Brainstorm
 
-##### What are you going to learn?
 
-##### Assignments
 
-##### Suggested Readings
