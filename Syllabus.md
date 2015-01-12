@@ -54,7 +54,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 6: Introduction to HTTP And Ajax
+### Week 6: Asynchoronous Programming with JavaScript
 
 ##### What are you going to learn?
 
@@ -64,7 +64,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 7: Introduction to Node.js
+### Week 7: Introduction to HTTP And Ajax
 
 ##### What are you going to learn?
 
@@ -84,7 +84,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 9: Automation Technics
+### Week 9: Introduction to Node.js
 
 ##### What are you going to learn?
 
@@ -94,7 +94,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 10: ECMAScript 6
+### Week 10: Automation Technics
 
 ##### What are you going to learn?
 
@@ -104,7 +104,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 11: The MV*/Flux Application Architecture
+### Week 11: ECMAScript 6
 
 ##### What are you going to learn?
 
@@ -114,7 +114,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 12: Debugging and Optimizing with Chrome
+### Week 12: The MV* & Flux Application Architecture
 
 ##### What are you going to learn?
 
@@ -124,7 +124,7 @@ This syllabus is not settled.
 
 ***
 
-### Week 13: Git Basics and Git Workflow
+### Week 13: Debugging and Optimizing with Chrome
 
 ##### What are you going to learn?
 
@@ -134,17 +134,12 @@ This syllabus is not settled.
 
 ***
 
-### Week 14: Working in Modern Companies
+### Week 14: Git Basics and Git Workflow
 
 ##### What are you going to learn?
 
 ##### Assignments
 
 ##### Suggested Readings
-
-***
-
-### Week 15: Final Project Brainstorm
-
 
 
