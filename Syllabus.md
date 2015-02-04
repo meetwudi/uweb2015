@@ -1,145 +1,31 @@
 # Syllabus
 
-This syllabus is not settled.
+### Session 0: Welcome to the course
+
+In this session, I am going to welcome you to this course with a big hug and a big big big smile. ( LIKE THIS :)))))) )
+
+You are going to learn:
+
+- What you are going to learn in this course
 
 ***
 
-### Week 1: Introduction to HTML5 & CSS3
+### Session 1: Introduction to Web Development
 
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
+In this session, we are going to learn a little bit about the history of the web.
 
 ***
 
-### Week 2: Layout Technics
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
+### Session 2: Tools
 
 ***
 
-### Week 3: Responsive Design
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
+### Session 3: HTML Basics
 
 ***
 
-### Week 4: Introduction to JavaScript
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
+### Session 4: Linear Design
 
 ***
 
-### Week 5: Object Oriented JavaScript
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 6: Asynchoronous Programming with JavaScript
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 7: Introduction to HTTP And Ajax
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 8: Utilizing JavaScript Frameworks
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 9: Introduction to Node.js
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 10: Automation Technics
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 11: ECMAScript 6
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 12: The MV* & Flux Application Architecture
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 13: Debugging and Optimizing with Chrome
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-***
-
-### Week 14: Git Basics and Git Workflow
-
-##### What are you going to learn?
-
-##### Assignments
-
-##### Suggested Readings
-
-
+### Project 1: Build your own Portfolio

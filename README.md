@@ -10,31 +10,19 @@ Students will learn skills as well as practical mindsets. It is very important f
 
 ### Prerequisite
 
-You should have been completed following courses. If you haven't, it's OK for you to take this course, but you may find it a little hard to understand.
+None. 
 
-- Introduction to Computer Science （计算机基础）
-- Algorithm （算法）
-- Data Structure （数据结构）
-- Computer Network （计算机网络）
-- Software Engineering （软件工程）
-
-You should have some basic knowledge of HTML, CSS.
-
-You should have solid understanding of Object Oriented Programming.
-
-You should have decent English communication skills. **This's very important.**
+Essentially, everyone will be welcomed to take this course.
 
 ### Location
 
-Tongji University, 4800th CaoAnGong Rd., JaiDing, ShangHai
+Onsite: Tongji University, 4800th CaoAnGong Rd., JaiDing, ShangHai
+
+Online: Lecture videos will be posted on our website.
 
 ### Language
 
 Lectures are presented in Chinese. All slides, assignments, documentations will be written in English.
-
-### Time & Duration
-
-To be settled.
 
 ### Links
 
