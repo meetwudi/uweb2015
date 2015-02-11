@@ -8,7 +8,7 @@ module.exports = function (grunt) {
         dist: {
           files: [
             { expand: true, cwd: 'src/', src: '**/*.html', dest: 'dest/'},
-            { expand: true, cwd: 'src/', src: '**/*.json', dest: 'dest/'}
+            { expand: true, cwd: 'src/', src: '**/*.json', dest: 'dest/'},
             { expand: true, cwd: 'src/', src: '**/*.md', dest: 'dest/'}
           ]
         }
