@@ -8,7 +8,8 @@ module.exports = function (grunt) {
         dist: {
           files: [
             { expand: true, cwd: 'src/', src: '**/*.html', dest: 'dest/'},
-            { expand: true, cwd: 'src/', src: '.htaccess', dest: 'dest/'}
+            { expand: true, cwd: 'src/', src: '**/*.json', dest: 'dest/'}
+            { expand: true, cwd: 'src/', src: '**/*.md', dest: 'dest/'}
           ]
         }
       },
@@ -44,6 +45,7 @@ module.exports = function (grunt) {
     });
 
 
-    grunt.registerTask('build', ['copy', 'browserify', 'uglify']);
-    grunt.registerTask('default', ['build']);
+    grunt.registerTask('opt', ['uglify']);
+    grunt.registerTask('build', ['copy', 'browserify']);
+    grunt.registerTask('default', ['build', 'opt']);
 };
