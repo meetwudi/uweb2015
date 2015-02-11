@@ -19,7 +19,7 @@ module.exports = function (grunt) {
             'dest/js/app.js': 'src/js/app.jsx'
           },
           options: {
-            transform: ['reactify']
+            transform: [['reactify', { 'es6': true}]]
           }
         }
       },
