@@ -20,9 +20,29 @@ module.exports = function (grunt) {
             transform: ['reactify']
           }
         }
+      },
+      uglify: {
+        dest: {
+          files: [
+            { expand: true, cwd: 'dest/', src: '**/*.js', dest: 'dest/'}
+          ],
+          options: {
+            sourceMap: true
+          }
+        }
+      },
+      watch: {
+        all: {
+          files: 'src/**/*.*',
+          tasks: ['build'],
+          options: {
+            livereload: true
+          }
+        }
       }
     });
 
 
-    grunt.registerTask('default', ['copy', 'browserify']);
+    grunt.registerTask('build', ['copy', 'browserify', 'uglify']);
+    grunt.registerTask('default', ['build']);
 };
