@@ -3,6 +3,7 @@ var Router = require('react-router');
 var Dashboard = require('./dashboard');
 var Instructor = require('./instructor');
 var Videos = require('./videos');
+var Video = require('./video');
 
 
 var App = React.createClass({
@@ -26,6 +27,7 @@ var routes = (
   <Router.Route name="app" path="/" handler={App}>
     <Router.Route name="instructor" handler={Instructor}/>
     <Router.Route name="videos" handler={Videos}/>
+    <Router.Route name="video" path="video/:videoId" handler={Video}/>
     <Router.DefaultRoute handler={Dashboard}/>
   </Router.Route>
 );

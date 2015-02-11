@@ -1,5 +1,8 @@
 var React = require('react');
+var Router = require('react-router');
 var $ = require('jquery');
+
+var Link = Router.Link;
 
 var Videos = React.createClass({
   getInitialState: function() {
@@ -8,7 +11,9 @@ var Videos = React.createClass({
   render: function() {
     var videoNodes = this.state.videos.map(function(video) {
       return (
-        <li>#{video.id}: {video.title}</li>
+        <li>
+          #{video.id}: <Link to="video" params={{videoId: video.id}}>{video.title}</Link>
+        </li>
       )
     });
     return (
